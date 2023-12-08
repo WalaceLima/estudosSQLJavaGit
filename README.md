@@ -1,0 +1,2 @@
+# estudosSQLJavaGit
+Acompanhamentopara desenvolimento técnico
